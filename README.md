@@ -1,8 +1,9 @@
 # Deepak wasiya
 
-**`Full Stack developer (Cloud/Backend/Frontend)`**
-
-I am a full-stack developer specializing in web application development. I have over six years of experience in software development, with two years of professional work and four years dedicated to studying the field.
+<p align="center">
+  <b>Full Stack Developer | Cloud Enthusiast | Backend Specialist</b><br/>
+  Passionate about building scalable web applications and cloud-based solutions.
+</p>
 
 ---
 
@@ -23,3 +24,14 @@ I am a full-stack developer specializing in web application development. I have 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+
+---
+
+## 🧠 About Me
+
+- 💻 Full Stack Developer with **6+ years** in software development  
+- 🧪 2 years professional experience | 4 years academic experience  
+- ☁️ Skilled in **Cloud, Backend, and Frontend Development**
+
+---
