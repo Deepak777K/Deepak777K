@@ -5,6 +5,24 @@
   Passionate about building scalable web applications and cloud-based solutions.
 </p>
 
+
+---
+
+## 📂 Featured Projects
+
+A few selected projects that showcase my skills in full-stack development, cloud/backend systems, and real-world integrations.
+
+---
+
+## 🔗 Quick Links Summary
+
+| Category               | Projects / Links                                                                                                                                                                          | Status                                                                                       |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Tracker** |  [Tracker App](https://github.com/Deepak777K/jobs)                                                                                                        | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
+| **Integrations**       |  [HubSpot Integration](https://github.com/Deepak777K/Hubspot-Integration-Python)                                                                                                                         | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)        |
+| **Full Stack App**     |  [Next.js App Boilerplate](https://github.com/Deepak777K/todo-next-app)                                                                                                                     | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)        |
+| **Backend Projects**   |  [Python Microservice](https://github.com/Deepak777K/todo-python-app) <br>  [Node.js CRUD API](https://github.com/Deepak777K/todo-node-app)                                                        | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)               |
+
 ---
 
 ### 🧰 Languages and Tools
