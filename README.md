@@ -8,7 +8,18 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Latest Projects
+
+[Content Feed Compliance Controller](https://github.com/Deepak777K/content-feed-compliance-controller)
+
+<p>
+The Content Feed Compliance Controller is a web application built with JavaScript and the Express framework. It automatically checks articles against the specific rules of news sites like Google News and MSN before they are published. This process ensures that content meets compliance standards, helping teams avoid penalties or article rejections.
+</p>
+
+---
+
+
+## 📂 Projects
 
 A few selected projects that showcase my skills in full-stack development, cloud/backend systems, and real-world integrations.
 
