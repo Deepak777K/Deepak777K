@@ -1,7 +1,7 @@
 # Deepak wasiya
 
 <p align="center">
-  <b>Full Stack Developer | Cloud Enthusiast | Backend Specialist</b><br/>
+  <b>Full Stack Developer</b><br/>
   Passionate about building scalable web applications and cloud-based solutions.
 </p>
 
